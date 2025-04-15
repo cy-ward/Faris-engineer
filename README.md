@@ -1,7 +1,5 @@
 # Cy Ward | Machine Learning Engineer 🤖⛓️☁️
 
-<a href="https://linkedin.com/in/your-linkedin-profile-here"><img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="https://github.com/your-github-username-here"><img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 📧 cy.ward6201995@gmail.com | 📍 Muenster, TX, US
 
 ---
@@ -80,5 +78,3 @@ I thrive on tackling complex challenges and building end-to-end, production-read
 ## 📫 Get In Touch
 
 *   **Email:** cy.ward6201995@gmail.com
-*   **LinkedIn:** [Your LinkedIn Profile URL]
-*   **GitHub:** [Your GitHub Profile URL]
